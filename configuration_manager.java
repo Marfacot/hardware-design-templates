@@ -1,0 +1,1 @@
+alert->setPosition(Screen.MIDDLE);
